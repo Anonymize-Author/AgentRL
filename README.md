@@ -30,9 +30,6 @@ Welcome to the official repository for **ZeroTIR**, a reproducible framework tha
 
 Interpretation: strong, positive, highly significant (p < 0.001).
 
-Visualization saved to  
-`/mnt/data/maixinji/spearman_correlation_analysis.png`.
-
 #### Research Question  
 Does training accuracy monotonically correlate with code ratio during RL?
 
