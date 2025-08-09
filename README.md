@@ -47,7 +47,7 @@ Higher training accuracy is associated with higher code usage.
 Performance numbers for Qwen‑3 and Claude baselines are available at  
 <https://huggingface.co/Qwen/Qwen3-235B-A22B-Instruct-2507>.
 
-All checkpoints and raw curves of ztrl-0727-7B released at <https://huggingface.co/htxu91/zeor_tir_0727/tree/main>.
+All checkpoints and raw curves of ztrl-0727-7B released at [Deleted, we will release it again when Camera Ready].
 
 ---
 
